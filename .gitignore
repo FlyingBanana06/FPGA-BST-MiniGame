@@ -1,0 +1,16 @@
+# Quartus generated
+db
+incremental_db
+output_files
+
+# Backup files
+.bak
+.old
+.backup
+~
+
+# Reports  binaries
+.rpt
+.sof
+.pof
+.jic
